@@ -7,6 +7,6 @@ License Plate Recognition / 车牌识别
 ImageInfo.ipynb  
 探索训练集，从文件名中提取信息  
 
-CCPD Plan 1.ipynb  
-第一套方案  
-	
+CCPD Plan 3.ipynb  
+熟悉 PyTorch 各项内容。  
+打算下一步从图像语义分析下手，用实例分割方法找出车牌的边界。
